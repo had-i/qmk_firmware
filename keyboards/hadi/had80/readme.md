@@ -1,18 +1,18 @@
-# ck65
+# had80
 
-A 65% keyboard implementation based around the ATMEGA32u4 with per-key RGB. 
+A TKL keyboard implementation based around the ATMEGA32u4 with underglow
 
-* Keyboard Maintainer: [hadi](https://github.com/senselessclay)
-* Hardware Supported: CK65 PCB
-* Hardware Availability: https://candykeys.com/
+* Keyboard Maintainer: [hadi](https://github.com/had-i)
+* Hardware Supported: had80 PCB
+* Hardware Availability: https://hadii.co/
 
 Make example for this keyboard (after setting up your build environment):
 
-    make senselessclay/ck65:default
+    make hadi/had80:default
 
 Flashing example for this keyboard:
 
-    make senselessclay/ck65:default:flash
+    make hadi/had80:default:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
